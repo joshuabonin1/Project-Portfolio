@@ -10,4 +10,4 @@ Red:
   < 100% completion and current time > deadline time
 I utilized many Common Table Expressions (CTEs) to gather the data for each process.
 I unioned the rows for each process, utilizing a group by at the end for the common dates.
-See picture file of the output dashboard.
+See JPG file of the output dashboard.
